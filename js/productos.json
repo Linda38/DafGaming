@@ -1,0 +1,202 @@
+[
+    {
+        "id": "mouse-01",
+        "titulo": "Mouse 01",
+        "imagen": "./img/mouses/mouse1.png",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1450
+    },
+    {
+        "id": "mouse-02",
+        "titulo": "Mouse 02",
+        "imagen": "./img/mouses/mouse2.png",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 570
+    },
+    {
+        "id": "mouse-03",
+        "titulo": "Mouse 03",
+        "imagen": "./img/mouses/mouse3.png",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 899
+    },
+    {
+        "id": "mouse-04",
+        "titulo": "Mouse 04",
+        "imagen": "./img/mouses/mouse4.png",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1350
+    },
+    {
+        "id": "mouse-05",
+        "titulo": "Mouse 05",
+        "imagen": "./img/mouses/mouse5.png",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1350
+    },
+    {
+        "id": "mouse-06",
+        "titulo": "Mouse 06",
+        "imagen": "./img/mouses/mouse6.png",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "teclado-01",
+        "titulo": "Teclado 01",
+        "imagen": "./img/teclados/teclado1.png",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "teclado-02",
+        "titulo": "Teclado 02",
+        "imagen": "./img/teclados/teclado2.png",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "teclado-03",
+        "titulo": "Teclado 03",
+        "imagen": "./img/teclados/teclado3.png",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1450
+    },
+    {
+        "id": "teclado-04",
+        "titulo": "Teclado 04",
+        "imagen": "./img/teclados/teclado4.png",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "teclado-05",
+        "titulo": "Teclado 05",
+        "imagen": "./img/teclados/teclado5.png",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 2700 
+    },
+    {
+        "id": "teclado-06",
+        "titulo": "Teclado 06",
+        "imagen": "./img/teclados/teclado6.png",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1900
+    },
+    {
+        "id": "teclado-07",
+        "titulo": "Teclado 07",
+        "imagen": "./img/teclados/teclado7.png",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "teclado-08",
+        "titulo": "Teclado 08",
+        "imagen": "./img/teclados/teclado8.png",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "audifonos-01",
+        "titulo": "Audífonos 01",
+        "imagen": "./img/audifonos/audifonos1.jpeg",
+        "categoria": {
+            "nombre": "Audífonos",
+            "id": "audifonos"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "audifonos-02",
+        "titulo": "Audífonos 02",
+        "imagen": "./img/audifonos/audifonos2.jpeg",
+        "categoria": {
+            "nombre": "Audífonos",
+            "id": "audifonos"
+        },
+        "precio": 899
+    },
+    {
+        "id": "audifonos-03",
+        "titulo": "Audífonos 03",
+        "imagen": "./img/audifonos/audifonos3.jpeg",
+        "categoria": {
+            "nombre": "Audífonos",
+            "id": "audifonos"
+        },
+        "precio": 4300
+    },
+    {
+        "id": "audifonos-04",
+        "titulo": "Audífonos 04",
+        "imagen": "./img/audifonos/audifonos4.jpeg",
+        "categoria": {
+            "nombre": "Audífonos",
+            "id": "audifonos"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "audifonos-05",
+        "titulo": "Audífonos 05",
+        "imagen": "./img/audifonos/audifonos5.jpeg",
+        "categoria": {
+            "nombre": "Audífonos",
+            "id": "audifonos"
+        },
+        "precio": 1700
+    },
+    {
+        "id": "audifonos-06",
+        "titulo": "Audífonos 06",
+        "imagen": "./img/audifonos/audifonos6.jpeg",
+        "categoria": {
+            "nombre": "Audífonos",
+            "id": "audifonos"
+        },
+        "precio": 2399
+    }
+]

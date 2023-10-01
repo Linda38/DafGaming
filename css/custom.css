@@ -1,0 +1,13 @@
+.error-title{
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    font-weight: 700;
+    color: #f10808;
+}
+
+.error-message{
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    color: #000;
+}
